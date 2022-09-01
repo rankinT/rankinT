@@ -1,6 +1,4 @@
-# Hey Hi Hello
-
-DNID Major student
+# Hey Hi Hello 👋
 
 Lets make cool stuff :>
 
